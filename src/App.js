@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Hamburger, TotalPrice} from "./components";
+import {Hamburger, TotalPrice, newFolder} from "./components";
 
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
       <div>
         <Hamburger />
         <TotalPrice />
+        <newFolder/>
       </div>
   );
 }
