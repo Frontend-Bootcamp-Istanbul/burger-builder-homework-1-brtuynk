@@ -1,11 +1,11 @@
 import React from 'react';
 
-function TotalPrice() {
+function Test() {
     return (
         <div>
-            TotalPrice
+            Test
         </div>
     );
 }
 
-export default TotalPrice;
+export default Test;
